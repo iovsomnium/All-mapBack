@@ -26,4 +26,4 @@ Mean : our map made by user / real time update map
 
 ## 🤔 Result / 결과물
 - 프로젝트 완료 실패로 인해 부팅 이미지만 남아있습니다.
-![Screenshot_20200907-173650](https://user-images.githubusercontent.com/51693390/92367171-0bb00d00-f131-11ea-949b-fd697afc581b.jpg)
+<img width="200" alt="스크린샷 2020-09-07 오후 5 20 57" src="https://user-images.githubusercontent.com/51693390/92367171-0bb00d00-f131-11ea-949b-fd697afc581b.jpg">
