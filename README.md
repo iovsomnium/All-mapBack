@@ -28,5 +28,10 @@
 - 프로젝트 완료 실패로 인해 부팅 이미지만 남아있습니다.
 <img width="200" alt="스크린샷 2020-09-07 오후 5 20 57" src="https://user-images.githubusercontent.com/51693390/92367171-0bb00d00-f131-11ea-949b-fd697afc581b.jpg">
 
+## 😏 프로젝트 시작법 / how to start project
+``` python manage.py runserver ```
+
 ### FrontEnd / 프론트 결과물
 - https://github.com/onixdragon1/All-map
+
+
