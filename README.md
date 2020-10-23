@@ -1,4 +1,4 @@
-## ❗ Before watch this project / 이 프로젝트를 보기 전에
+## ❗ Before you see this project, / 이 프로젝트를 보기 전에
 ### I want practice English so write with English. When you read this, little bit look so weird cause I don't used translate I ask for understanding on that point. Thanks.
 ### 작성자는 한국인으로 영어를 연습하기 위해 영어도 같이 적어져 있습니다. 번역기를 이용하지 않기에 다소 어눌한 것에 양해를 구합니다.
 
@@ -25,7 +25,7 @@
 - 👱 `ges020` (https://github.com/ges020) : Design
 
 ## 🤔 Result / 결과물
-- 프로젝트 완료 실패로 인해 부팅 이미지만 남아있습니다.
+- 프로젝트 속 flutter 부분의 문제로 해결 중 교내 프로젝트 기간이 끝나 부팅 이미지만 남아있습니다.
 <img width="200" alt="스크린샷 2020-09-07 오후 5 20 57" src="https://user-images.githubusercontent.com/51693390/92367171-0bb00d00-f131-11ea-949b-fd697afc581b.jpg">
 
 ## 😏 프로젝트 시작법 / how to start project
